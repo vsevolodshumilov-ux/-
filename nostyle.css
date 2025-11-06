@@ -1,0 +1,64 @@
+header{
+    font-size: 36px;
+    background-color: salmon;
+    text-decoration: none;
+}
+header img{
+    width: 120px;
+    height: 80px;
+}
+nav a{
+    text-decoration: none;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: orangered;
+    color: black;
+    border-radius: 10px;
+    font-size: 26px;
+}
+nav{
+    margin: 30px;
+    padding: 10px;
+}
+h1{
+    font-size: 45px;
+    text-align: center;
+}
+.big{
+    text-align: center;
+    width: 1000px;
+}
+h2{
+    font-size: 35px;
+}
+p{
+    font-size: 24px;
+}
+main img{
+    width: 150px;
+}
+.med{
+    width: 400px;
+    height: 260px;
+}
+a{
+    text-decoration: none;
+    padding: 5px;
+    border: 1px solid black;
+    background-color: orangered;
+    color: black;
+    border-radius: 10px;
+    font-size: 20px;
+}
+footer{
+    background-color: darkred;
+    color: white;
+    font-size: 30px;
+    border-bottom:1px solid black;
+
+}
+.small{
+    width: 280px;
+    height: 190px;
+    border: 3px solid darkgreen;
+}
